@@ -22,7 +22,9 @@
   - Please change the IPAddress in line 74 of main.cpp to the same with IP of server
 
 ** This is still not the final version and still being developed
+
 ** If you have any question or need supporting, please contact me.
 
 ** Email: fxanhkhoa@gmail.com
+
 ** Phone: 077 291 297 0
