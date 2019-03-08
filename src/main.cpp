@@ -145,10 +145,16 @@ void doContour(){
 
     cout << theta << endl;
 
+    //Set Angle
     sATS.angle = int(theta / DIVIDER);
-    sATS.speed = 1;
+    // Set Speed
+    sATS.speed = 25;
     memset(json, 0, sizeof(json));
+
+    // Parse to json String
     json = sATS.GetJson();
+
+    // Send to built-in server
     send(sock , json , strlen(json) , 0 );
 }
 
