@@ -6,13 +6,12 @@
     + cd Unity_UITCar
   - run the file I made
     + ./bin/autocar
-  - Press (Plus numpad +) for autopilot with autocar application
-  - Press (Plus numpad +) again to get back to control mode
+  - Press 0 for changing to manual mode or autopilot mode
   
 * For anyone want to make with cmake:
   - in Unity_UITCar folder do:
     + cmake .
-    + make .
+    + make
     + ./bin/autocar
   
 * Explain
@@ -27,6 +26,6 @@
 
 ** If you have any question or need supporting, please contact me.
 
-** Email: fxanhkhoa@gmail.com
+** Email: fxanhkhoa@gmail.com or 15520364@gm.uit.edu.vn
 
 ** Phone: 077 291 297 0
