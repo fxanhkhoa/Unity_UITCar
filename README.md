@@ -20,8 +20,9 @@
   - The image file of road line is in TheFxUITCar_Data/Snapshots/ and named: fx_UIT_Car.png
   
 ** Note
-  - Please run theFxUITCar.x86_64 because that is the server and the IP of server is the black text at right
-  - Please change the IPAddress in line 74 of main.cpp to the same with IP of server
+  - Please run theFxUITCar.x86_64 because that is the server and the IP of server is the black text at right.
+  - Please change the IPAddress in line 74 of main.cpp to the same with IP of server.
+  - For best result in competition, we will use Fantastic graphic version, so please test with Fantastic version.
 
 ** This is still not the final version and still being developed
 
