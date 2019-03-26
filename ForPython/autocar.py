@@ -15,7 +15,7 @@ def jsonToString(speed, angle):
 port = 9999
 ip = str(sys.argv[1])
 
-#while true:
+
 try:
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     sock.connect((ip , port))
@@ -26,6 +26,7 @@ except Exception as ex:
     print(ex)
     sys.exit()
 
+#while true:
 try:
     ## send to server
     message = jsonToString(10, 20)
