@@ -19,6 +19,7 @@ _**For Map Test**_
  
 _**For Round 1**_
 * How to use
+
   _**Python** language_
   - All image processing code should be put in processThread, in run function
   - To change speed and angle, just make speed = (int) and angle = (int)
